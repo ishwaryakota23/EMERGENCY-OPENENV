@@ -1,0 +1,9 @@
+name: emergency-response-env
+description: Multi-step emergency response simulation environment
+
+entrypoint: inference.py
+
+tags:
+  - openenv
+  - reinforcement-learning
+  - emergency-response
